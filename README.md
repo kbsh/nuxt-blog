@@ -1,5 +1,7 @@
 # nuxt-firebase-blog
 
+![](https://github.com/kbsh/nuxt-firebase-blog/workflows/Node%20CI/badge.svg)
+
 > Nuxt + Firebase blog
 
 ## Build Setup
