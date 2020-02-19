@@ -1,3 +1,6 @@
+中座
+herokuCI/CDやGitHubActionsなど試したためcommit荒れてる。CircleCIはやろうとして何もしてない。
+
 # nuxt-firebase-blog
 
 ![](https://github.com/kbsh/nuxt-firebase-blog/workflows/Node%20CI/badge.svg)
